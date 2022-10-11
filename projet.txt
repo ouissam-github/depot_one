@@ -1,4 +1,4 @@
-fonc 1 : vide
+fonc 1 : ok
 fonc 2 : vide
 fonc 3 : vide
 fonc 4 : vide
